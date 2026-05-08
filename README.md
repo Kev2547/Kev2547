@@ -1,5 +1,5 @@
-
- 
+<div align="center">
+  <img src="banner.png" width="100%" alt="Kevin Mulemberi Banner" />
   <br><br>
   
   # 👋 Hey, I'm Kevin Mulemberi
@@ -154,8 +154,12 @@ graph TD
 # 📈 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kev2547&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kev2547&layout=compact&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api?username=Kev2547&show_icons=true&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Kev2547&layout=compact&theme=tokyonight" height="170px" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kev2547&theme=tokyonight&margin-w=15" />
 </div>
 
 <p align="center">
