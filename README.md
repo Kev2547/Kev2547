@@ -154,8 +154,8 @@ graph TD
 # 📈 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma.vercel.app/api?username=Kev2547&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=Kev2547&layout=compact&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Kev2547&show_icons=true&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Kev2547&layout=compact&theme=tokyonight" height="170px" />
 </div>
 
 <div align="center">
